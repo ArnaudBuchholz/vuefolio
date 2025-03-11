@@ -8,10 +8,9 @@
         >
           <img
             :alt="`${$t('hero.name')}'s picture'`"
-            src="@/assets/img/profile.webp"
+            src="@/assets/img/ArnaudBuchholz.png"
             class="h-10 w-10 rounded-full rounded-tl-none duration-500 sm:group-hover:rounded-br-sm sm:group-hover:rounded-tl-full"
           />
-          Vuefolio
         </router-link>
         <div class="flex items-center space-x-2 font-semibold">
           <nav class="hidden items-center space-x-2 md:flex [&>a]:px-1">
